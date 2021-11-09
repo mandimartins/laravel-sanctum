@@ -4,4 +4,6 @@
 * Update Product
 * Delete Product
 * Search Products
+* User Authentication
+  
 
